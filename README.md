@@ -1,0 +1,4 @@
+# ops_small_scrapt
+用于记录自己工作过程中的部分小脚本
+
+zabbix：主要用于记录zabbix中的一些非常有用的小工具
